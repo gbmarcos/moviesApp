@@ -8,6 +8,8 @@ A simple app to fetch movies
 
 ## Getting Started 🚀
 
+Flutter version: 3.0.0
+
 To get dependecies use the following commands:
 
 ```sh
